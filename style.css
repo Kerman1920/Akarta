@@ -1,0 +1,527 @@
+*{
+    margin: 0;
+    padding: 0;
+     background-color: #FFF8EE;
+}
+
+.container{
+    width: 1500px;
+    height: 900px;
+   
+    margin: auto;
+}
+
+.header{
+    padding-top: 20px;
+    display: flex;
+    gap: 400px;
+}
+
+.header__text{
+    display: flex;
+    gap: 30px;
+}
+
+.header__logo{
+width: 140px;
+height: 30px;
+
+
+}
+
+.but{
+    /* Frame */
+
+/* Rectangle */
+
+width: 130px;
+height: 45px;
+margin-top: 0px;
+border: none;
+background: #C47344;
+border-radius: 50px;
+
+
+
+}
+
+.center_cent{
+    margin: auto;
+    width: 700px;
+    height: 350px;
+    margin-top: 150px;
+    
+}
+
+.New{
+    margin-left: 600px;
+    width: 60px;
+    height: 30px;
+
+    background: #F9A38F;
+    border: none;
+    border-radius: 30px;
+
+/* New */
+margin: auto;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 25px;
+/* identical to box height, or 208% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.Art{
+    width: 190px;
+    height: 30px;
+    background-color: #F9EDE2;
+    border: none;
+    border-radius: 30px;
+}
+
+.center__title{
+    /* Rely on us */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 110px;
+line-height: 119px;
+/* identical to box height, or 108% */
+text-align: center;
+
+color: #322F2E;
+
+
+}
+
+
+.center__text{
+    width: 524px;
+    height: 100px;
+
+    /* Our Customer Due Diligence platform helps you avoid fines or losing clients due to AML while protecting you from cybercrime. */
+
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 33px;
+/* or 157% */
+text-align: center;
+
+color: #322F2E;
+
+
+}
+
+.Learn{
+    /* Frame */
+
+/* Rectangle */
+
+width: 130px;
+height: 45px;
+margin-top: 0px;
+border: none;
+background: #C47344;
+border-radius: 50px;
+
+/* Learn More */
+
+margin-left: 250px;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.center__images{
+    margin-left: 160px;
+}
+
+.center__link{
+    margin-left: 630px;
+    width: 300px;
+    height: 20px;
+
+    /* Frame */
+
+     color: #C47344;
+
+
+}
+
+.cards{
+    margin-left: 200px;
+    display: flex;
+}
+
+.card{
+    width: 500px;
+    /* Frame */
+
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+background: #FFFAF2;
+border: 1px solid #DDDDDD;
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.08);
+border-radius: 10px;
+
+
+/* Frame */
+
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+
+
+border: 2px solid #E1DED9;
+border-radius: 50px;
+
+
+/* Learn More */
+
+
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* For Art Dealers */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 52px;
+/* identical to box height, or 124% */
+text-align: center;
+
+color: #322F2E;
+
+
+
+/* Rectangle */
+
+
+
+background: url(.png);
+border-radius: 0px;
+
+
+/* Galleries and independent art dealers */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+text-align: center;
+
+color: #322F2E;
+
+
+}
+
+
+.More{
+    /* Frame */
+
+width: 150px;
+height: 50px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+
+
+border: 2px solid #E1DED9;
+border-radius: 50px;
+
+
+/* Learn More */
+
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.quiz{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 200px;
+    gap: 80px;
+}
+
+.quiz__title{
+    /* Does Anti-money Laundering affect you? */
+
+font-style: normal;
+font-weight: 700;
+font-size: 53px;
+line-height: 62px;
+/* or 117% */
+
+color: #322F2E;
+
+
+}
+
+.wrap{
+    width: 470px;
+}
+
+
+
+.quiz__text{
+    /* A short, interactive quiz to check if your art business is affected by 5AMLD regulation. */
+
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 33px;
+/* or 157% */
+
+color: #322F2E;
+
+
+}
+
+.take{
+    /* Frame */
+
+width: 150px;
+height: 50px;
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+
+border: 2px solid #E1DED9;
+border-radius: 50px;
+
+
+/* Take the Quiz */
+
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+
+color: #000000;
+
+
+}
+
+.world{
+    display: flex;
+    width: 1200px;
+    height: 415px;
+    margin-left: 200px;
+    
+}
+
+
+.world__title{
+    /* Art world insight. */
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 54px;
+/* identical to box height, or 135% */
+
+color: #1A1918;
+
+
+}
+
+.world__text{
+    /* Receive our newsletter direct to your inbox to follow updates to legislation and the EU art-market's response. */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+color: #322F2E;
+
+
+}
+
+.footer{
+    display: flex;
+    width: 1200px;
+    height: 470px;
+}
+
+.footer_right{
+    width: 340px;
+    height: 470px;
+}
+
+.footer_right_text{
+    /* Our Customer Due Diligence platform helps you avoid fines or losing clients due to AML while protecting you from cybercrime. */
+margin-top: 20px;
+width: 313px;
+height: 60px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+color: #313131;
+
+
+}
+
+.footer_right_name{
+    margin-top: 20px;
+    /* Approved Service Provider */
+width: 155px;
+height: 20px;
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+color: #313131;
+
+
+}
+
+.footer_right_parther{
+    margin-top: 20px;
+
+    /* In Partnership with */
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #313131;
+
+
+}
+
+.right_hide_text{
+    /* Registered with the Information Commissioner's Office (ICO) Registration number: ZA679248 */
+
+margin-top: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+
+color: #D3D3D3;
+
+
+}
+
+.footer_right_author{
+    /* © Arc-Pay Ltd 2021 */
+
+margin-top: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+color: #D3D3D3;
+
+
+}
+
+.imagee{
+    width: 1180px;
+}
+
+
+.footer_item{
+    display: flex;
+    margin-left: 190px;
+    gap: 100px;
+    width: 760px;
+    height: 470px;
+}
+
+li{
+    list-style: none;
+    /* Home */
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #313131;
+
+
+}
+
+.main{
+    /* Links */
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+color: #333333;
+
+
+}
